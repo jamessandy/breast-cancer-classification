@@ -1,0 +1,2 @@
+# breast-cancer-classification
+I Built a model to  classify breast cnacer on an IDC dataset that can accurately classify a histology image as benign or malignant, to achive this i use the the IDC_regular dataset (the breast cancer histology image dataset) from Kaggle. This dataset holds 2,77,524 patches of size 50×50 extracted from 162 whole mount slide images of breast cancer specimens scanned at 40x. Of these, 1,98,738 test negative and 78,786 test positive with IDC.
